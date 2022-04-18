@@ -1,2 +1,2 @@
 # news-grid
-Brad Traversy 
+News Grid project of Brad Traversy from udemy 

@@ -1,2 +1,2 @@
 # news-grid
-travis tutorial 
+Brad Traversy 
